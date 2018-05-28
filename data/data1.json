@@ -6,15 +6,15 @@
 "fecha":"20/03/2018"
 },
 {
-"titulo":"noticia1",
-"descripcion":"descripcion",
-"imagen":"kaisa.jpg",
-"fecha":"dd/mm/aa"
+"titulo":"Parche 8.5 de League of Legends",
+"descripcion":"En esta versión repasamos varios casos que están destacando en la escena profesional, algunos de los cuales llevan siendo problemáticos desde hace un tiempo (Azir, Galio y Ryze). También revisamos a Zoe tras las duras debilitaciones de la última versión.",
+"imagen":"parche85.jpg",
+"fecha":"06/03/2018"
 },
 {
-"titulo":"noticia1",
-"descripcion":"descripcion",
-"imagen":"kaisa.jpg",
-"fecha":"dd/mm/aa"
+"titulo":"Parche 8.8 de League of Legends",
+"descripcion":"En otro momento, 8.8 hubiera sido un parche mayor en el sistema alterno entre pequeños y grandes parches de Riot Games. El parche de esta semana será en cambio más pequeño a medida que Riot se prepara por una serie de actualizaciones de mitad de temporada que ocurrirán en múltiples parches.",
+"imagen":"parche88.jpg",
+"fecha":"17/04/2018"
 }
 ]
