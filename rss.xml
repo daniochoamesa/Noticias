@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<noticias>
+    <noticia>
+        <titulo>Nueva campeona:Kai'sa</titulo>
+        <descripcion>La nueva campeona del vacío aparece con un kit de habilidades muy variado.</descripcion>
+        <img>
+            <imgmid>../img/kaisa.jpg</imgmid>
+            <imgbig>../img/kaisa.jpg</imgbig>
+        </img>
+        <pubDate>20/02/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+	<noticia>
+        <titulo>Parche 8.7 de League of Legends</titulo>
+        <descripcion>El parche 8.7 está disponible. Después de una actualización tan grande como fue la anterior, esta se queda algo más pequeña. Es cierto que es algo que Riot ya ha dicho que va a ser la tónica habitual con los parches impares.</descripcion>
+        <img>
+            <imgmid>../img/parche87.jpg</imgmid>
+            <imgbig>../img/parche87.jpg</imgbig>
+        </img>
+        <pubDate>03/04/2018</pubDate>
+        <enlace>../noticia2.html</enlace>
+    </noticia>
+	<noticia>
+        <titulo>Parche 8.6 de League of Legends</titulo>
+        <descripcion>En esta ocasión, echamos un vistazo a Filoscuro y a cómo afecta a sus usuarios principales. Creemos que aporta demasiado poder, pero queríamos asegurarnos de darle a esos campeones más poder si eliminamos parte del de Filoscuro.</descripcion>
+        <img>
+            <imgmid>../img/parche86.jpg</imgmid>
+            <imgbig>../img/parche86.jpg</imgbig>
+        </img>
+        <pubDate>20/03/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+	<noticia>
+        <titulo>Parche 8.5 de League of Legends</titulo>
+        <descripcion>En esta versión repasamos varios casos que están destacando en la escena profesional, algunos de los cuales llevan siendo problemáticos desde hace un tiempo (Azir, Galio y Ryze). También revisamos a Zoe tras las duras debilitaciones de la última versión. </descripcion>
+        <img>
+            <imgmid>../img/parche85.jpg</imgmid>
+            <imgbig>../img/parche85.jpg</imgbig>
+        </img>
+        <pubDate>06/03/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+	<noticia>
+        <titulo>Parche 8.8 de League of Legends</titulo>
+        <descripcion>En otro momento, 8.8 hubiera sido un parche mayor en el sistema alterno entre pequeños y grandes parches de Riot Games. El parche de esta semana será en cambio más pequeño a medida que Riot se prepara por una serie de actualizaciones de mitad de temporada que ocurrirán en múltiples parches.</descripcion>
+        <img>
+            <imgmid>../img/parche88.jpg</imgmid>
+            <imgbig>../img/parche88.jpg</imgbig>
+        </img>
+        <pubDate>17/04/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+	<noticia>
+        <titulo>Parche 8.9 de League of Legends</titulo>
+        <descripcion> En esta versión nos centramos en los magos, el maná y el lanzamiento de habilidades. Con el paso del tiempo, los campeones expertos en limpiar oleadas han ido desplazando a los demás campeones en mid, lo que ha afectado a la diversidad de estilos de juego. </descripcion>
+        <img>
+            <imgmid>../img/parche89.jpg</imgmid>
+            <imgbig>../img/parche89.jpg</imgbig>
+        </img>
+        <pubDate>01/05/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+    <noticia>
+        <titulo>Parche 8.10 de League of Legends</titulo>
+        <descripcion>El parche 8.10 ya ha llegado a la Grieta del Invocador. Esta actualización puede parecer algo más pequeña de lo que no tiene acostumbrado Riot cuando decide refrescar el League of Legends con un parche par, pero lo cierto es que trae grandes cambios.</descripcion>
+        <img>
+            <imgmid>../img/parche810.jpg</imgmid>
+            <imgbig>../img/parche810.jpg</imgbig>
+        </img>
+        <pubDate>16/05/2018</pubDate>
+        <enlace>../noticia1.html</enlace>
+    </noticia>
+</noticias>
