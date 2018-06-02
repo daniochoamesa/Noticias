@@ -8,10 +8,29 @@ En el pedido, el cliente nos ha especificado los siguientes puntos:
   
     ·La maquetación tiene que dejar espacio a la derecha de la pantalla para publicidad si la pantalla es suficientemente ancha.
     ·Para dispositivos móviles se utilizará diferente de publicidad a la utilizada en modo escritorio.
-    ·Los de datos de cada noticia dentro del archivo rss.xml son los siguientes: título, imgbig, imgmid, descripción, y fecha de publicación.
-    ·Se han de crear dos plantillas o tipos de páginas html, la plantilla donde se verá toda y la plantilla donde se visualizará una noticia.
+    ·Los de datos de cada noticia dentro del archivo rss.xml son los siguientes: título, imgbig, imgmid, descripción, y fecha de 
+    publicación.
+    ·Se han de crear dos plantillas o tipos de páginas html, la plantilla donde se verá toda y la plantilla donde se visualizará una 
+    noticia.
     
 Una vez leídas las especificaciones hechas por el cliente se ha realizado a la maquetación del modelo de la página web. Hecha en
-cuaderno, se puede apreciar una primera idea de cómo sería el formato y la maquetación de la misma
+cuaderno, se puede apreciar una primera idea de cómo sería el formato y la maquetación de la misma.
 
+![img_20180602_231005_hdr](https://user-images.githubusercontent.com/32293791/40880916-3b4e12b8-66ba-11e8-84b1-cc2c854b4e93.jpg)
 
+Después de varios días, decidí que este formato no era el más adecuado para una página web de noticias de League of Legends y decidí
+darle otra maquetación a la página web.
+
+![img_20180417_181215_hdr](https://user-images.githubusercontent.com/32293791/40880895-bf47a3e6-66b9-11e8-956c-5e5026783728.jpg)
+
+De esta manera me parecía una versión más sencilla y simple para las personas que visitaran esta página y donde podrían ver el contenido de la misma de una forma más adecuada y limpia a la presentada anteriormente.
+
+A partir de aquí empezó la construcción de la página web, utilizando herramientas como Bootstrap para facilitar la programación de la
+página y pudiendo añadir nuevas funcionalidades como una barra de navegación en la parte superior de la pantalla o la utilización de 
+columnas para situar las notícias en la parte central de la página.
+
+Semanas después se fue añadiendo los archivos JSON y RSS para que la página pudiera ser compartida externamente a través de las redes 
+sociales y también la temática de la página web, que sería la actualidad sobre el videojuego League of Legends, con noticias de las nuevas 
+actualizaciones, parches y entrada a los nuevas campeones.
+
+Se consiguió la implementación del botón en la parte inferior de la página para poder cargar las notícias con sus descripciones que estaban alojadas en el archivo json, tanto 1 como 2. 
