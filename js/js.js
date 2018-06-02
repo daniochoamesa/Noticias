@@ -1,19 +1,3 @@
-//funciones
-
-/*$(function () {
-$(window).scroll(function(){
-
-console.log( "alto documento:	" + $(document).height + 
-			"\n alto ventana " + $(window).height +
-			"\n Scroll Top" + $(window).scrollTop());
-			 
-if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()) {
-	function(mostrarNombres);
-}
-});
-});
-*/
-
 // Función para cargar noticias mediante el botón
 var nnoticias = 1;
 var maxnoticias = 2;
