@@ -6,12 +6,12 @@ En este Readme explicaré el proceso de este proyecto final para Lenguaje de mar
 
 En el pedido, el cliente nos ha especificado los siguientes puntos:
   
-    ·La maquetación tiene que dejar espacio a la derecha de la pantalla para publicidad si la pantalla es suficientemente ancha.
-    ·Para dispositivos móviles se utilizará diferente de publicidad a la utilizada en modo escritorio.
-    ·Los de datos de cada noticia dentro del archivo rss.xml son los siguientes: título, imgbig, imgmid, descripción, y fecha de 
-    publicación.
-    ·Se han de crear dos plantillas o tipos de páginas html, la plantilla donde se verá toda y la plantilla donde se visualizará una 
-    noticia.
+·La maquetación tiene que dejar espacio a la derecha de la pantalla para publicidad si la pantalla es suficientemente ancha.
+·Para dispositivos móviles se utilizará diferente de publicidad a la utilizada en modo escritorio.
+·Los de datos de cada noticia dentro del archivo rss.xml son los siguientes: título, imgbig, imgmid, descripción, y fecha de 
+publicación.
+·Se han de crear dos plantillas o tipos de páginas html, la plantilla donde se verá toda y la plantilla donde se visualizará una 
+noticia.
     
 Una vez leídas las especificaciones hechas por el cliente se ha realizado a la maquetación del modelo de la página web. Hecha en
 cuaderno, se puede apreciar una primera idea de cómo sería el formato y la maquetación de la misma.
@@ -30,7 +30,12 @@ página y pudiendo añadir nuevas funcionalidades como una barra de navegación 
 columnas para situar las notícias en la parte central de la página.
 
 Semanas después se fue añadiendo los archivos JSON y RSS para que la página pudiera ser compartida externamente a través de las redes 
-sociales y también la temática de la página web, que sería la actualidad sobre el videojuego League of Legends, con noticias de las nuevas 
-actualizaciones, parches y entrada a los nuevas campeones.
+sociales y también la temática de la página web, que sería la actualidad sobre el videojuego League of Legends, con noticias de las 
+nuevas actualizaciones, parches y entrada a los nuevas campeones.
 
-Se consiguió la implementación del botón en la parte inferior de la página para poder cargar las notícias con sus descripciones que estaban alojadas en el archivo json, tanto 1 como 2. 
+Se consiguió la implementación del botón en la parte inferior de la página para poder cargar las notícias con sus descripciones que 
+estaban alojadas en el archivo json, tanto 1 como 2. 
+
+En cuanto al tema de la publicidad, está alojada en la parte derecha de la pantalla con su espacio reservado y para modo móvil este div 
+de publicidad se encuentra en la parte superior que desaparece cuando hace scroll el usuario. En modo escritorio, la publicidad va 
+variando cada dos segundos y en modo móvil es una imagen fija.
