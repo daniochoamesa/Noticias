@@ -39,7 +39,7 @@ sociales y también la temática de la página web, que sería la actualidad sob
 nuevas actualizaciones, parches y entrada a los nuevas campeones.
 
 Se consiguió la implementación del botón en la parte inferior de la página para poder cargar las notícias con sus descripciones que 
-estaban alojadas en el archivo json, tanto 1 como 2. 
+estaban alojadas en el archivo json, tanto 1 como 2.
 
 En cuanto al tema de la publicidad, está alojada en la parte derecha de la pantalla con su espacio reservado y para modo móvil este div 
 de publicidad se encuentra en la parte superior que desaparece cuando hace scroll el usuario. En modo escritorio, la publicidad va 
