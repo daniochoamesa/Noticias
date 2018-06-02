@@ -73,7 +73,7 @@ body {
 	#principal{height:200px;width:450px;}
 }
 
-.col-sm-2{background-image:white;}
+.col-sm-2{background-color:white;}
 .col-sm-12{background-color:lavenderblush;padding-bottom:100px;}
 #botonModal{margin-top: 20px;
     margin-bottom: 20px;}
